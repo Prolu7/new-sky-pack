@@ -1,2 +1,24 @@
 Official "new Sky pack" modlist:
-	-	coming soon
+	-	Applied Energistics 2
+	-	Baubles
+	-	BetterFPS
+	-	Botania
+	-	CCTweaked
+	-	Chisel
+	-	Chisel and Bits
+	-	EnderIO
+	-	ExNihilo
+	-	ExCompressum
+	-	Fast Furnace
+	-	Hwyla
+	-	Immersive Engineering
+	-	Inventory Tweaks
+	-	Ironchest
+	-	Just Enough Items
+	-	Journeymap
+	-	OptiFine
+	-	Tinker's Construct
+	-	Thermal Foundation
+	-	Thermal Expansion
+	-	Tree Growing Simulator 2017
+	-	YUNoMakeGoodMap
